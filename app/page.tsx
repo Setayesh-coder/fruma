@@ -9,7 +9,7 @@ import { ArrowRight, Rocket, Check, X, Users, Briefcase, Target, Zap } from "luc
 export default function App() {
   return (
     <>
-      <div className="min-h-screen bg-background text-foreground font-sans">
+      <div className="min-h-screen bg-background text-foreground ">
         {/* Hero Section - Minimal & Bold */}
         <section className="container mx-auto px-6 pt-20 pb-32 text-center">
           <Badge variant="secondary" className="mb-6 text-sm tracking-wider">
